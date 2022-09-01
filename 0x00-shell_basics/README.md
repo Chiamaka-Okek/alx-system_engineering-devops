@@ -27,3 +27,5 @@
 13-symbolic_link links folder /bin/ls
 
 14-copy_html updates parent file
+
+100-lets_move moves all files starting with uppercases
