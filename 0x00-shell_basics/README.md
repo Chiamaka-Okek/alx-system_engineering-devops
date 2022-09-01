@@ -29,3 +29,7 @@
 14-copy_html updates parent file
 
 100-lets_move moves all files starting with uppercases
+
+101-clean_emacs deletes all files ending with ~
+
+102-tree creates multiple directories in current working directory
