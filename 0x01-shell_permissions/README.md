@@ -25,3 +25,11 @@
 12-directory_permissions file creates a directory with 751 permissions
 
 13-change_group file changes the group owner
+
+100-change_owner_and_group file changes file's owner and group
+
+101-symbolic_link_permissions file changes a symbolic link owner and group
+
+102-if_only file change file based on a specific user
+
+103-Stars_Wars file plays StarWars IV episode in the terminal
