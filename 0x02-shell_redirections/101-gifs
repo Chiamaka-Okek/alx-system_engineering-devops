@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -sa '*.gif' | sort'\n'
+ls -a *.gif | sort | paste -d '\n' - /dev/null
