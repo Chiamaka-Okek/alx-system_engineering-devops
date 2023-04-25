@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -maxdepth -empty -printf %f \n
+find . -maxdepth -empty -printf %f '\n'
